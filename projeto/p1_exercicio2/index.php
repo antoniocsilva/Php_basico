@@ -1,43 +1,39 @@
 <?php
-# Primeiro exercicio de PHP
 
 #Operações
 $a = "a";
-$result_a = 3+4*5;
-//echo $a.') '.'3+4*5'.' = '.$result_a.';'.'<br>';
+$result_a = 6*(3+2);
 
 $e = "e";
-$result_e = 1+12/((7+2)/3)+(6-2);
+$result_e = 3+(20-2) / (2*(9-6));
 
 $i = "i";
-$result_i = sqrt (9)+ sqrt(16);
+$result_i = (10*8 +3)*9;
 
 $b = "b";
-$result_b = 8/4+2*3;
+$result_b = 2+6*(3+2);
 
 $f = "f";
-$result_f = 3+16/2+5;
+$result_f = 6/3 +8/2 ;
 
 $j = "j";
-$result_j = 21 / 4 / 2;
+$result_j = (-12 *-4) + (3*-4);
 
 $c = "c";
-$result_c = 2*(10-3*3)-1;
+$result_c = 2 + 3*6 / (2+4);
 
 $g = "g";
-$result_g = 24 / 4-2;
+$result_g = (3 + 8/2)*4 + 3*2;
 
 $d = "d";
-$result_d = 5*(3+(2+3))/2+1;
+$result_d = 2* 8/(3+1);
 
 $h = "h";
-$result_h = 11 % 4+9 / 3;
-
+$result_h = 6 * 3 * 3 + 6 - 10;
 
 #Resultados
 
-
-echo 'Resultado do p1_exercicio1'.'<br>';
+echo 'Resultado do p1_exercicio2'.'<br>';
 echo $a.' = '.$result_a.';'.'<br>';
 echo $e.' = '.$result_e.';'.'<br>';
 echo $i.' = '.$result_i.';'.'<br>';
