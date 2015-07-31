@@ -3,7 +3,7 @@
     <?php
 //    echo $_SERVER['REQUEST_URI'].'<br>';
 //    echo $_SERVER['PHP_SELF'].'<br>';
-//    O resultado das duas variáveis são iguais, porém não atingia o proposito solicitado,
+//    O resultado das duas constante são iguais, porém não atingia o proposito solicitado,
 //    então após pesquisa combinei a função end() com função explode().
 //    A primeira retorna o último elemento de uma array, e a outra retorna uma matriz de string.
 
